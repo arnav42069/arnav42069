@@ -17,7 +17,7 @@ The ultimate matchmaking service and platform for football game enthusiasts. Whe
 ## 🛠️ Spotlight Project: WordForge
 
 > **Tkinter-based GUI Wordlist Builder for Authorized Security Testing**
-
+### 🔌 [WordForge](https://github.com/arnav42069/WordForge)
 **WordForge** is a context-aware wordlist generator designed for pentests, red-team engagements, CTFs, and defensive password auditing. It operates entirely locally, runs cross-platform (Windows & Linux), and features optional integration with local LLMs via Ollama.
 
 ### 🔒 Operational Philosophy & Ethics
