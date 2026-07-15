@@ -1,16 +1,16 @@
-# Hi there, I'm Arnav! 👋
+# Hi, I'm Arnav! 👋
 
-I'm a software developer passionate about building practical desktop applications, engaging web platforms, and creating utility plugins. 
+I'm a software developer passionate about building practical desktop applications, engaging web platforms, and creating music production (VST) plugins. 
 
 ---
 
 ## 🚀 Projects & Platforms
 
 ### 🔌 [Brella.co.in](https://brella.co.in)
-A dedicated platform where I host and distribute **custom-built plugins** I’ve designed. Everything on Brella is available to download completely **for free** to help developers and creators streamline their workflows.
+A dedicated platform where I host and distribute **custom-built plugins** I’ve designed. Everything on Brella is available to download completely **for free**.
 
 ### ⚽ [Footyhunt.com](https://footyhunt.com)
-The ultimate matchmaking service and platform for football game enthusiasts. Whether you are looking to jump into a local match, coordinate with players, or manage teams, **Footyhunt** connects football lovers seamlessly.
+The ultimate matchmaking service and platform for football game enthusiasts. Whether you are looking to jump into a local match, coordinate with players, or host a novel public game, **Footyhunt** connects football lovers seamlessly.
 
 ---
 
