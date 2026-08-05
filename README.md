@@ -1,13 +1,13 @@
 # Hi, I'm Arnav! 👋
 
-I'm a software developer passionate about building practical desktop applications, engaging web platforms, and creating music production (VST) plugins. 
+I'm a software developer passionate about building practical desktop applications, engaging web platforms, and creating high-performance music production (VST) plugins. 
 
 ---
 
 ## 🚀 Projects & Platforms
 
-### 🔌 [Brella.co.in](https://brella.co.in)
-A dedicated platform where I host and distribute **custom-built plugins** I’ve designed. Everything on Brella is available to download completely **for free**.
+### 🔌 [AzazelAudio.com](https://azazelaudio.com)
+The official home for my **custom-built VST plugins** and audio DSP software (including VisualComp and Suckerpunch). Designed for modern music producers and mixing engineers, **Azazel Audio** features intuitive visual interfaces, high-grade dynamic processing, and free audio plugins to elevate your signal chain.
 
 ### ⚽ [Footyhunt.com](https://footyhunt.com)
 The ultimate matchmaking service and platform for football game enthusiasts. Whether you are looking to jump into a local match, coordinate with players, or host a novel public game, **Footyhunt** connects football lovers seamlessly.
