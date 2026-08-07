@@ -8,6 +8,14 @@ I'm a software developer passionate about building practical desktop application
 
 ### 🔌 [AzazelAudio.com](https://azazelaudio.com)
 The official home for my **custom-built VST plugins** and audio DSP software (including VisualComp and Suckerpunch). Designed for modern music producers and mixing engineers, **Azazel Audio** features intuitive visual interfaces, high-grade dynamic processing, and free audio plugins to elevate your signal chain.
+# VisualComp 2.23
+
+**A compressor that sees your mix.** Multiband dynamics, a Visual Parametric EQ, Sidechain Compression from an External Input, and mastering-grade output shaping (Glue Compression) in one plugin — controlled by a live, interactive graph instead of a wall of knobs.
+
+**[Download Free (VST3 & Standalone for Windows & macOS)](https://www.google.com/search?q=%23)**
+
+---
+
 
 ### ⚽ [Footyhunt.com](https://footyhunt.com)
 The ultimate matchmaking service and platform for football game enthusiasts. Whether you are looking to jump into a local match, coordinate with players, or host a novel public game, **Footyhunt** connects football lovers seamlessly.
