@@ -2,8 +2,6 @@
 
 ![Arnav terminal animation](assets/arnav-terminal.gif)
 
-# Hey, I'm Arnav.
-
 **AI Systems Engineer · Cybersecurity Tooling · Full-Stack Developer · Audio Software Founder**
 
 I build **local-first AI agents**, developer automation, security research tools, and creative software — from autonomous tool-using LLM workflows to real-time C++ audio plugins.
