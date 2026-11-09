@@ -6,7 +6,7 @@
 
 I build **local-first AI agents**, developer automation, security research tools, and creative software — from autonomous tool-using LLM workflows to real-time C++ audio plugins.
 
-[GitHub](https://github.com/arnav42069) · [Azazel Audio](https://azazelaudio.com) · [Footyhunt](https://footyhunt.com) · [LinkedIn](https://linkedin.com/in/arnav-s-bb5140134)
+[GitHub](https://github.com/arnav42069) · [Azazel Audio](https://azazelaudio.com) · [Footyhunt](https://footyhunt.com) · [LinkedIn](https://www.linkedin.com/in/as999/)
 
 </div>
 
