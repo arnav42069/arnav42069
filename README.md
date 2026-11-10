@@ -25,7 +25,7 @@ I build **local-first AI agents**, developer automation, security research tools
 
 | Project | What I'm building | Stack / focus |
 | :--- | :--- | :--- |
-| **BlackBox** | Local LLM agent harness for scoped security-lab workflows, tool invocation, execution logs, and multimodal assistance | Python, Ollama, Linux, cybersecurity tooling |
+| **[BlackBox](https://github.com/arnav42069/blackbox)** | Local LLM agent harness for scoped security-lab workflows, tool invocation, execution logs, and multimodal assistance | Python, Ollama, Linux, cybersecurity tooling |
 | **Autonomous BlackBox QA Orchestrator** | Iterative agent-assisted coding and QA: issue reproduction, testing, feedback, and repair cycles | Codex, automation, test orchestration, Linux |
 | **[Azazel Audio](https://azazelaudio.com)** | Audio plugin products and a direct-to-customer software storefront | C++, JUCE, DSP, React, Vercel |
 | **[Footyhunt](https://footyhunt.com)** | Football match discovery and coordination platform | Full-stack web engineering, product design |
